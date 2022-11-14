@@ -1,4 +1,0 @@
-data.isnull().any()
-Date                                    false
-Closing Value                           true
-dtype: bool
